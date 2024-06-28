@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bangladesh-risk-map/static/css/main.23aec67d.css",
+    "main.js": "/bangladesh-risk-map/static/js/main.6904a019.js",
+    "static/js/453.91dd685d.chunk.js": "/bangladesh-risk-map/static/js/453.91dd685d.chunk.js",
+    "index.html": "/bangladesh-risk-map/index.html",
+    "main.23aec67d.css.map": "/bangladesh-risk-map/static/css/main.23aec67d.css.map",
+    "main.6904a019.js.map": "/bangladesh-risk-map/static/js/main.6904a019.js.map",
+    "453.91dd685d.chunk.js.map": "/bangladesh-risk-map/static/js/453.91dd685d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23aec67d.css",
+    "static/js/main.6904a019.js"
+  ]
+}
